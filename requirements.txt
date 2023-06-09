@@ -1,0 +1,16 @@
+numpy == 1.24.2
+scipy == 1.10.1
+opencv-python == 4.7.0.72
+opencv-contrib-python == 4.7.0.72
+PyYAML == 6.0
+medpy == 0.4.0
+pydicom == 2.3.1
+dcm2niix==1.0.20220715
+nibabel == 5.0.1
+SimpleITK-SimpleElastix == 2.0.0rc2.dev910
+surfa == 0.4.2
+acvl-utils==0.2
+dynamic-network-architectures==0.2
+graphviz==0.20.1
+yacs==0.1.8
+batchgenerators==0.25

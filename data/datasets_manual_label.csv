@@ -1,0 +1,615 @@
+,subject,label,brain,cerebellum,stem,bilateral,hemisphere,discard,comment
+0,0019983,y,y,y,n,n,l,n,-
+1,0021023,y,y,n,y,n,r,n,-
+2,0021061,y,y,n,n,y,b,n,-
+3,0021092,y,y,n,n,n,l,n,-
+4,0021822,y,y,y,n,y,b,n,-
+5,0041698,y,y,n,n,n,l,n,-
+6,0041699,y,y,n,n,n,l,n,-
+7,0072680,y,y,n,n,n,r,n,-
+8,0072681,y,y,n,n,n,r,n,-
+9,0072682,y,y,n,n,y,b,n,-
+10,0072688,y,y,n,n,y,b,n,-
+11,0072691,y,y,n,n,y,b,n,-
+12,0072693,y,y,n,n,y,b,n,-
+13,0072697,y,y,n,n,n,r,n,-
+14,0072723,y,y,n,n,n,l,n,-
+15,0072729,y,y,n,n,n,l,n,-
+16,0072734,y,y,n,n,n,r,n,-
+17,0072752,y,y,n,n,y,b,n,-
+18,0072762,y,y,n,n,n,r,n,-
+19,0072765,y,y,n,n,y,b,n,-
+20,0072776,y,y,n,n,n,r,n,-
+21,0072854,y,y,n,n,y,b,n,-
+22,0072864,y,y,n,n,n,l,n,-
+23,0072910,y,y,n,n,n,r,n,-
+24,0072916,y,y,n,n,n,r,n,-
+25,0072921,y,y,y,n,y,b,n,-
+26,0072946,y,y,n,n,y,b,n,-
+27,0072950,y,y,n,n,n,l,n,-
+28,0072961,y,y,n,n,y,b,n,-
+29,0072975,y,y,n,n,n,l,n,-
+30,0072984,y,y,n,n,n,l,n,-
+31,0073000,y,y,n,n,y,b,n,-
+32,0073007,y,y,n,y,y,b,n,-
+33,0073036,y,y,n,n,y,b,n,-
+34,0073048,y,y,n,n,y,b,n,-
+35,0073060,y,y,n,n,n,l,n,-
+36,0073074,y,y,n,n,y,b,n,-
+37,0073100,y,y,n,n,y,b,n,-
+38,0073112,y,y,n,n,y,b,n,-
+39,0073160,y,y,n,n,y,b,n,-
+40,0073189,y,y,n,n,n,r,n,-
+41,0073207,y,y,n,n,n,r,n,-
+42,0073213,y,y,n,n,n,l,n,-
+43,0073226,y,y,n,n,n,l,n,-
+44,0073264,y,y,n,n,n,r,n,-
+45,0073278,y,y,n,n,y,b,n,-
+46,0073288,y,y,n,n,n,l,n,-
+47,0073299,y,y,y,n,y,b,n,-
+48,0073307,y,y,y,n,y,b,n,-
+49,0073312,y,y,n,n,y,b,n,-
+50,0073318,y,y,n,n,n,l,n,-
+51,0073326,y,y,n,n,n,r,n,-
+52,0073338,y,y,n,n,n,r,n,-
+53,0073355,y,y,n,n,y,b,n,-
+54,0073366,y,y,n,n,y,b,n,-
+55,0073372,y,y,n,n,n,r,n,-
+56,0073379,y,y,y,n,n,l,n,-
+57,0073397,y,y,n,n,y,b,n,-
+58,0073410,y,y,n,n,y,b,n,-
+59,0073424,y,y,n,n,y,b,n,-
+60,0073441,y,y,n,n,n,r,n,-
+61,0073445,y,y,n,n,y,b,n,-
+62,0073465,y,y,n,n,y,b,n,SOLVED - this case needs manual correction of orientation
+63,0073489,y,y,n,n,n,r,n,-
+64,0073496,y,y,n,n,n,l,n,check SynthSR
+65,0073517,y,y,n,n,n,r,n,-
+66,0073521,y,y,n,n,n,l,n,-
+67,0073523,y,y,n,n,n,l,n,-
+68,0073525,y,y,n,n,n,l,n,-
+69,0073526,y,y,n,n,n,l,n,-
+70,0073531,y,y,n,n,y,b,n,-
+71,0073533,y,y,n,n,n,l,n,-
+72,0073540,y,y,n,n,y,b,n,-
+73,0073542,y,y,y,n,y,b,n,-
+74,0073543,y,y,n,y,y,b,n,-
+75,0074410,y,y,n,n,n,r,n,-
+76,0091366,y,y,n,n,y,b,n,weird labelling
+77,0091370,y,y,n,n,n,r,n,-
+78,0091371,y,y,n,n,y,b,n,-
+79,0091373,y,n,y,y,y,b,n,-
+80,0091374,y,n,y,y,y,b,n,-
+81,0091377,y,n,y,n,n,l,n,-
+82,0091379,y,y,n,n,y,b,n,-
+83,0091381,y,y,n,n,y,b,n,-
+84,0091383,y,y,n,n,n,l,n,-
+85,0091386,y,y,n,n,y,b,n,-
+86,0091387,y,y,y,n,y,b,n,-
+87,0091388,y,y,n,n,y,b,n,-
+88,0091391,y,y,n,n,n,r,n,-
+89,0091392,y,y,n,n,y,b,n,-
+90,0091393,y,y,n,n,y,b,n,-
+91,0091394,y,y,n,n,y,b,n,-
+92,0091398,y,y,n,n,y,b,n,-
+93,0091400,y,y,n,n,n,r,n,-
+94,0091401,y,y,n,n,n,r,n,-
+95,0091402,y,y,n,n,y,b,n,-
+96,0091411,y,y,n,n,n,l,n,-
+97,0091415,y,y,n,n,y,b,n,-
+98,0091419,y,y,n,n,y,b,n,-
+99,0091428,y,y,n,n,n,r,n,-
+100,0091430,y,y,n,n,n,r,n,-
+101,0091431,y,y,n,n,n,r,n,-
+102,0091433,y,y,n,n,y,b,n,-
+103,0091438,y,y,n,n,y,b,n,-
+104,0091439,y,y,n,n,y,b,n,symmetric
+105,0091440,y,y,n,n,y,b,n,
+106,0091442,y,y,n,n,n,l,n,
+107,0091445,y,y,y,n,y,b,n,
+108,0091449,y,y,n,n,n,r,n,
+109,0091453,y,y,n,n,y,b,n,
+110,0091454,y,y,n,n,n,l,n,
+111,0091458,y,y,n,y,y,b,n,
+112,0091460,y,y,n,n,y,b,n,
+113,0091465,y,n,y,y,y,b,n,SOLVED - missing dwi
+114,0091468,y,y,n,n,n,r,n,SOLVED - missing dwi
+115,0091472,y,y,n,n,n,r,n,
+116,0091475,y,y,n,n,n,r,n,
+117,0091476,y,y,n,n,y,b,n,
+118,0091483,y,y,n,n,y,b,n,check SynthSR
+119,0091485,y,y,y,n,y,b,n,
+120,0091488,y,y,n,n,y,b,n,
+121,0091494,y,y,n,n,y,b,n,
+122,0091495,y,y,n,n,y,b,n,
+123,0091499,y,y,n,n,n,r,n,
+124,0091503,y,y,n,n,y,b,n,
+125,0091505,y,y,y,n,y,b,n,
+126,0091507,y,y,n,n,y,b,n,
+127,0091515,y,y,n,n,y,b,n,
+128,0091517,y,y,n,n,y,b,n,
+129,0091519,y,y,n,n,n,l,n,"SOLVED - whole volume, manual crop"
+130,0091522,y,y,n,n,n,l,n,
+131,0091523,y,y,n,n,n,l,n,
+132,0091524,y,y,n,n,y,b,n,
+133,0091527,y,y,n,n,y,b,n,check SynthSR
+134,0091528,y,y,n,n,n,r,n,
+135,0091529,y,y,n,n,y,b,n,symmetric
+136,0091530,y,y,n,n,n,l,y,artifacts
+137,0091531,y,y,n,n,n,l,n,
+138,0091534,y,y,n,n,n,l,n,
+139,0091537,y,y,y,n,y,b,n,
+140,0091538,y,y,n,n,n,l,n,
+141,0091544,y,y,n,n,y,b,n,
+142,0091548,y,y,n,n,n,r,n,
+143,0091551,y,y,n,n,y,b,n,"SOLVED - whole volume, manual crop"
+144,0091580,y,y,y,n,y,b,n,"SOLVED - whole volume, manual crop"
+145,0091586,y,y,n,n,y,b,n,
+146,0091599,y,y,n,y,y,b,n,
+147,0091609,y,y,y,n,y,b,n,
+148,0091610,y,y,n,n,n,r,n,
+149,0091611,y,y,n,n,y,b,n,
+150,0091616,y,y,n,n,y,b,n,
+151,0091621,y,y,n,n,y,b,n,
+152,0091625,y,y,y,n,n,l,n,
+153,0091630,y,y,n,n,n,r,n,
+154,0091633,y,y,n,n,n,r,n,
+155,0091634,y,y,n,n,n,l,n,
+156,0091641,y,y,n,n,n,r,n,
+157,0091642,y,y,n,n,y,b,n,
+158,0091644,y,y,n,n,y,b,n,
+159,0091646,y,y,n,n,y,b,n,
+160,0091647,y,y,n,n,n,l,n,
+161,0091649,y,y,n,n,y,b,n,
+162,0091651,y,y,n,n,y,b,n,
+163,0091652,y,y,n,n,y,b,n,
+164,0091657,y,y,y,n,n,l,n,
+165,0091658,y,y,n,n,y,b,n,
+166,0091659,y,y,y,n,y,b,n,
+167,0091660,y,y,y,n,n,l,n,
+168,0091661,y,y,n,n,y,b,n,
+169,0091663,y,y,n,y,y,b,n,
+170,0091664,y,y,n,n,n,l,n,
+171,0091667,y,y,y,n,y,b,n,
+172,0091671,y,y,n,n,n,l,n,
+173,0091672,y,y,n,n,n,l,n,
+174,0091674,y,y,y,n,y,b,n,
+175,0091680,y,y,y,y,n,r,n,
+176,0091683,y,y,n,n,y,b,n,
+177,0091684,y,y,n,n,n,l,y,artifacts
+178,0091685,y,y,n,n,n,l,n,
+179,0091690,y,y,n,n,y,b,n,
+180,0091691,y,y,y,y,y,b,n,
+181,0091696,y,y,y,y,y,b,n,
+182,0226120,y,n,y,n,y,b,n,
+183,0226121,y,y,n,n,y,b,n,
+184,0226122,y,y,y,n,y,b,n,
+185,0226123,y,y,n,n,y,b,n,
+186,0226124,y,y,y,n,y,b,n,
+187,0226125,y,y,y,n,y,b,n,
+188,0226126,y,y,n,n,y,b,n,
+189,0226128,y,y,n,n,n,r,n,
+190,0226129,y,y,n,n,n,r,n,
+191,0226130,y,y,n,n,n,l,y,artifacts
+192,0226132,y,y,y,y,y,b,n,
+193,0226133,y,y,n,n,y,b,n,
+194,0226134,y,-,-,-,-,-,y,misregistered labels
+195,0226135,y,y,n,n,y,b,n,
+196,0226136,y,y,n,n,y,b,n,
+197,0226137,y,y,n,n,y,b,n,
+198,0226139,y,y,y,n,y,b,n,
+199,0226141,y,y,n,n,y,b,n,
+200,0226142,y,y,n,n,n,l,n,
+201,0226143,y,y,y,y,y,b,n,
+202,0226179,y,n,n,y,n,l,n,
+203,0226180,y,y,n,n,y,b,n,
+204,0226181,y,y,y,n,n,l,n,
+205,0226182,y,y,n,n,n,l,n,
+206,0226183,y,n,y,n,n,r,n,
+207,0226184,y,y,n,n,n,l,n,
+208,0226185,y,y,y,y,y,b,n,
+209,0226187,y,y,n,n,y,b,n,
+210,0226188,y,y,n,n,n,l,n,
+211,0226190,y,y,y,n,y,b,n,
+212,0226192,y,y,n,y,n,r,n,
+213,0226194,y,y,n,n,y,b,n,
+214,0226195,y,y,n,n,y,b,n,
+215,0226197,y,y,n,y,y,b,n,
+216,0226198,y,y,n,n,y,b,n,
+217,0226199,y,y,n,n,y,b,n,
+218,0226200,y,y,n,n,y,b,n,
+219,0226201,y,y,n,n,y,b,n,
+220,0226202,y,y,n,n,n,l,n,
+221,0226203,y,y,n,n,y,b,n,
+222,0226204,y,y,n,n,n,r,n,
+223,0226205,y,y,n,n,y,b,n,
+224,0226206,y,y,y,n,n,l,n,
+225,0226208,y,y,n,n,y,b,n,
+226,0226249,y,y,n,n,n,r,n,
+227,0226250,y,y,n,n,y,b,n,
+228,0226251,y,n,y,n,n,l,n,
+229,0226252,y,y,y,n,y,b,n,
+230,0226253,y,y,y,y,y,b,n,
+231,0226254,y,y,y,n,y,b,n,
+232,0226255,y,y,n,n,y,b,n,
+233,0226256,y,y,y,n,y,b,n,
+234,0226257,y,y,n,n,y,b,n,
+235,0226258,y,y,n,n,n,r,n,
+236,0226259,y,y,n,n,y,b,n,
+237,0226261,y,y,n,n,y,b,n,
+238,0226262,y,y,n,n,n,r,n,
+239,0226263,y,y,n,n,y,b,n,
+240,0226265,y,y,n,n,y,b,n,
+241,0226266,y,y,n,n,n,l,n,
+242,0226267,y,y,n,n,y,b,n,
+243,0226268,y,y,n,n,y,b,n,
+244,0226270,y,y,n,y,y,b,n,
+245,0226271,y,y,n,n,n,l,n,
+246,0226272,y,y,n,n,b,l,n,
+247,0226273,y,y,n,n,n,l,n,
+248,0226274,y,y,n,n,y,b,n,
+249,0226275,y,y,n,n,n,r,n,
+250,0226276,y,y,n,n,n,l,n,
+251,0226279,y,y,n,y,y,b,n,
+252,0226281,y,y,n,y,y,b,n,
+253,0226282,y,y,y,n,y,b,n,
+254,0226283,y,y,y,n,y,b,n,
+255,0226284,y,y,n,n,y,b,n,
+256,0226285,y,y,n,n,n,l,n,
+257,0226286,y,y,n,n,y,b,n,
+258,0226287,y,y,n,n,y,b,n,
+259,0226288,y,y,n,n,n,l,n,
+260,0226289,y,y,n,n,n,l,n,
+261,0226290,y,y,y,y,n,l,n,
+262,0226292,y,y,n,n,y,b,n,
+263,0226293,y,y,n,n,y,b,n,
+264,0226294,y,y,n,n,y,b,n,
+265,0226295,y,y,n,n,y,b,n,
+266,0226296,y,y,y,n,y,b,n,
+267,0226298,y,y,y,n,n,r,n,
+268,0226299,y,y,n,n,y,b,n,
+269,0226300,y,y,n,n,y,b,n,
+270,0226301,y,y,n,n,n,l,n,
+271,0226302,y,y,y,n,y,b,n,
+272,0226303,y,y,n,n,n,l,n,
+273,0226304,y,y,n,n,n,l,n,
+274,0226305,y,y,n,n,y,b,n,
+275,0226306,y,y,y,y,y,b,n,
+276,0226307,y,y,n,n,y,b,n,
+277,0226308,y,y,y,n,y,b,n,
+278,0226309,y,y,n,n,y,b,n,
+279,0226311,y,y,y,n,y,b,n,
+280,0226313,y,y,n,n,n,l,n,
+281,0226314,y,y,n,n,n,l,n,
+282,0226315,y,y,n,n,y,b,n,
+283,0226316,y,y,n,n,y,b,n,
+284,0226317,y,y,n,n,y,b,n,
+285,0226318,y,y,n,n,y,b,n,
+286,0226320,y,y,n,y,y,b,n,
+287,0226321,y,y,y,n,y,b,n,
+288,0537815,y,y,n,n,n,l,n,
+289,0537818,y,y,y,n,y,b,n,
+290,0537835,y,y,n,n,n,r,n,
+291,0537847,y,y,n,n,y,b,n,
+292,0537848,y,y,y,n,y,b,n,
+293,0537854,y,y,n,n,y,b,n,
+294,0537855,y,y,n,n,n,l,n,
+295,0537861,y,y,n,n,n,r,n,
+296,0537872,y,y,n,n,n,r,n,
+297,0537878,y,y,y,n,y,b,n,
+298,0537907,y,y,n,n,y,b,n,
+299,0537908,y,y,n,n,y,b,n,
+300,0537917,y,y,n,n,n,l,n,
+301,0537925,y,y,n,n,y,b,n,
+302,0537927,y,y,n,n,y,b,n,
+303,0537930,y,y,y,y,y,b,n,
+304,0537938,y,y,y,n,y,b,n,
+305,0537947,y,y,n,n,n,l,n,
+306,0537961,y,y,n,n,n,r,n,
+307,0537979,y,y,n,n,n,l,n,
+308,0537990,y,y,n,y,n,l,n,
+309,0538003,y,y,n,n,y,b,n,
+310,0538005,y,y,n,n,n,l,n,
+311,0538016,y,y,n,n,n,l,n,
+312,0538023,y,y,n,n,y,b,n,
+313,0538035,y,y,n,n,y,b,n,
+314,0538050,y,y,n,y,y,b,y,slab
+315,0538058,y,y,n,n,y,b,n,
+316,0538067,y,y,n,n,n,r,n,
+317,0538087,y,y,y,n,n,l,n,
+318,0538108,y,y,n,n,y,b,n,
+319,0538117,y,y,n,n,y,b,n,
+320,0538129,y,y,y,n,y,b,n,
+321,0538139,y,y,n,n,n,l,n,
+322,0538179,y,y,n,n,n,r,n,
+323,0538191,y,y,n,n,n,l,n,
+324,0538251,y,y,n,n,y,b,n,
+325,0538281,y,y,n,n,y,b,n,
+326,0538315,y,y,n,n,y,b,n,
+327,0538319,y,y,n,n,y,b,n,
+328,0538320,y,y,n,n,y,b,n,
+329,0538344,y,y,y,y,y,b,n,
+330,0538345,y,y,n,n,y,b,n,
+331,0538363,y,y,y,y,y,b,n,
+332,0538375,y,y,n,y,n,l,n,
+333,0538400,y,y,n,n,y,b,n,
+334,0538405,y,y,n,y,y,b,n,
+335,0538425,y,y,n,n,n,l,n,
+336,0538447,y,y,n,n,y,b,n,
+337,0538449,y,y,n,n,y,b,n,
+338,0538453,y,y,y,y,y,b,n,
+339,0538459,y,y,n,n,n,l,n,
+340,0538479,y,y,n,y,y,b,n,
+341,0538486,y,y,y,n,n,l,n,
+342,0538502,y,y,n,n,y,b,n,
+343,0538505,y,y,n,n,n,r,n,
+344,0538525,y,n,n,y,n,r,n,
+345,0538527,y,y,n,n,y,b,n,
+346,0538532,y,y,n,n,n,l,n,
+347,0538539,y,y,n,n,y,b,n,
+348,0538545,y,y,n,n,n,l,n,
+349,0538549,y,n,n,y,n,r,n,
+350,0538553,y,y,n,n,n,l,n,
+351,0538563,y,y,n,n,n,l,n,
+352,0538565,y,y,n,n,n,r,n,
+353,0538568,y,y,y,n,y,b,n,
+354,0538595,y,y,n,n,n,l,n,
+355,0538597,y,y,n,n,n,r,n,
+356,0538637,y,y,n,n,y,b,n,
+357,0538651,y,y,n,n,y,b,n,
+358,0538652,y,y,y,n,y,b,n,
+359,0538673,y,y,n,n,y,b,n,
+360,0538680,y,y,n,y,y,b,n,
+361,0538682,y,y,y,n,y,b,n,
+362,0538695,y,y,n,n,y,b,n,
+363,0538705,y,y,n,y,y,b,n,
+364,0538706,y,y,n,n,y,b,n,
+365,0538724,y,y,n,n,n,l,n,
+366,0538735,y,y,n,n,y,b,n,
+367,0538749,y,y,n,n,n,r,n,
+368,0538750,y,y,n,n,n,r,n,
+369,0538762,y,y,y,n,y,b,n,
+370,0538763,y,y,n,n,n,l,n,
+371,0538774,y,y,y,n,n,l,n,
+372,0538779,y,y,n,y,y,b,n,
+373,0538780,y,y,n,n,n,l,n,
+374,0538792,y,y,n,n,y,b,n,
+375,0538799,y,y,n,y,n,r,n,
+376,0538805,y,y,n,n,y,b,n,
+377,0538811,y,y,n,n,n,l,n,
+378,0538833,y,y,n,n,y,b,n,
+379,0538835,y,y,y,n,y,b,n,
+380,0538895,y,y,n,n,y,b,n,
+381,0538911,y,y,n,y,y,b,n,
+382,0538919,y,y,n,n,n,l,n,
+383,0538928,y,y,n,n,n,r,n,
+384,0538941,y,y,n,n,n,l,n,
+385,0538942,y,y,n,n,n,l,n,
+386,0538948,y,y,n,n,n,r,n,
+387,0538963,y,y,n,n,y,b,n,
+388,0538971,y,y,y,y,y,b,n,
+389,0538975,y,n,y,n,n,l,n,
+390,0538983,y,y,n,n,y,b,n,
+391,0538992,y,y,n,y,n,l,n,
+392,0539001,y,y,n,n,y,b,n,
+393,0539004,y,y,n,n,n,r,n,
+394,0539021,y,y,n,n,n,r,n,
+395,0539025,y,n,y,y,n,l,n,
+396,0539035,y,y,n,n,n,r,n,
+397,0539043,y,y,n,n,n,l,n,
+398,train000,y,y,n,n,n,r,n,-
+399,train001,y,y,n,n,n,r,n,-
+400,train002,y,y,n,n,n,l,n,-
+401,train003,y,y,n,n,n,r,n,-
+402,train004,y,y,n,n,n,l,n,-
+403,train005,y,y,n,n,n,l,n,-
+404,train006,y,y,n,n,n,r,n,-
+405,train007,h,-,-,-,-,-,n,-
+406,train008,y,n,n,y,-,-,y,potential mask rl flip
+407,train009,y,y,n,n,n,r,n,-
+408,train010,y,y,n,n,n,l,n,-
+409,train011,y,y,n,n,n,l,n,-
+410,train012,h,-,-,-,-,-,n,-
+411,train013,y,y,n,n,n,r,n,-
+412,train014,y,y,n,n,n,l,n,-
+413,train015,y,y,n,n,n,l,n,-
+414,train016,y,n,n,y,-,-,y,potential mask rl flip
+415,train017,y,y,n,n,n,r,n,-
+416,train018,y,y,n,n,n,r,y,potential mask translation
+417,train019,y,y,n,n,n,r,y,potential mask translation
+418,train020,y,y,n,n,n,r,y,brain mask with holes
+419,train021,y,y,n,n,n,l,y,-
+420,train022,y,y,n,n,n,l,n,-
+421,train023,y,n,n,y,n,r,n,-
+422,train024,y,y,y,y,n,l,n,-
+423,train025,y,n,n,y,n,r,n,-
+424,train026,y,y,n,n,n,r,n,brain mask with holes
+425,train027,h,-,-,-,-,-,n,-
+426,train028,y,y,n,n,n,r,n,-
+427,train029,y,y,n,n,n,r,n,-
+428,train030,y,y,n,n,n,r,n,-
+429,train031,y,y,n,n,n,l,y,ncct corrupted
+430,train032,y,y,n,n,y,b,n,-
+431,train033,y,y,n,n,n,r,n,-
+432,train034,y,n,n,y,n,r,n,-
+433,train035,y,n,y,n,n,l,n,check for another lesion in slice 14
+434,train036,y,y,n,n,n,l,n,check for another lesion in slice 20
+435,train037,y,y,n,n,n,r,n,-
+436,train038,h,-,-,-,-,-,n,check stem in slide 10
+437,train039,y,y,n,n,n,l,n,-
+438,train040,y,y,n,n,n,r,n,-
+439,train041,y,y,n,n,n,l,n,-
+440,train042,y,y,n,n,y,b,n,-
+441,train043,y,y,n,n,n,l,n,-
+442,train044,y,y,n,n,n,l,n,-
+443,train045,y,y,n,n,n,r,n,-
+444,train046,y,y,n,n,y,b,n,-
+445,train047,y,y,n,n,n,l,n,-
+446,train048,h,-,-,-,-,-,n,-
+447,train049,y,y,n,n,n,r,n,-
+448,train050,y,n,n,y,n,r,n,-
+449,train051,h,-,-,-,-,-,n,-
+450,train052,y,n,n,y,n,r,y,-
+451,train053,y,y,n,n,n,l,n,-
+452,train054,y,y,n,n,n,l,n,-
+453,train055,y,y,n,n,n,l,n,-
+454,train056,y,n,n,y,n,l,n,-
+455,train057,y,y,n,n,n,r,n,-
+456,train058,h,-,-,-,-,-,n,-
+457,train059,h,-,-,-,-,-,n,-
+458,case1,y,y,n,n,n,l,y,artifact bottom slices
+459,case2,y,y,n,n,n,l,n,-
+460,case3,y,y,n,n,n,l,n,-
+461,case4,y,y,n,n,n,l,n,-
+462,case5,y,y,n,n,n,l,n,-
+463,case6,y,y,n,n,n,l,n,-
+464,case7,y,y,n,n,n,l,n,-
+465,case8,y,y,n,n,n,l,n,-
+466,case9,y,y,n,n,n,l,n,-
+467,case10,y,y,n,n,n,r,n,-
+468,case11,y,y,n,n,n,r,n,-
+469,case12,y,y,n,n,n,l,n,artifact in pncct1
+470,case13,y,y,n,n,n,r,n,-
+471,case14,y,y,n,n,n,r,n,-
+472,case15,y,y,n,n,n,r,n,mild artifact
+473,case16,-,-,-,-,-,-,y,no pncct
+474,case17,y,y,n,n,n,r,n,-
+475,case18,y,y,n,n,n,r,n,-
+476,case19,y,y,n,n,n,r,n,-
+477,case20,y,y,n,n,n,r,n,segmentation overlapping bone
+478,case21,y,y,n,n,n,l,n,-
+479,case22,-,-,-,-,-,-,y,no pncct
+480,case23,y,y,n,n,n,r,n,-
+481,case24,y,y,n,n,n,r,n,-
+482,case25,y,y,n,n,n,r,n,-
+483,case26,y,y,n,n,n,l,n,-
+484,case27,y,y,n,n,n,l,n,-
+485,case28,y,y,n,n,n,l,n,-
+486,case29,y,y,n,n,n,l,n,-
+487,case30,y,y,n,n,n,l,y,no pncct
+488,case31,-,-,-,-,-,-,y,no pncct
+489,case32,y,y,n,n,n,r,n,-
+490,case33,y,y,n,n,n,l,n,-
+491,case34,y,y,n,n,n,r,n,-
+492,case35,y,y,n,n,n,r,n,-
+493,case36,y,y,n,n,n,r,n,-
+494,case37,y,y,n,n,n,r,n,segmentation overlapping bone
+495,case38,y,y,n,n,n,l,n,-
+496,case39,y,y,n,n,n,l,n,-
+497,case40,y,y,n,n,n,l,n,-
+498,case41,y,y,n,n,n,r,n,-
+499,case42,-,-,-,-,-,-,y,no pncct
+500,case43,y,y,n,n,n,r,n,-
+501,case44,y,y,n,n,n,r,n,-
+502,case45,-,-,-,-,-,-,y,no pncct
+503,case46,y,y,n,n,n,r,n,-
+504,case47,y,y,n,n,n,l,n,-
+505,case48,y,y,n,n,n,l,n,-
+506,case49,y,y,n,n,n,r,n,-
+507,case50,y,y,n,n,n,r,n,check if contrast
+508,case51,y,y,n,n,n,r,n,-
+509,case52,-,-,-,-,-,-,y,no pncct
+510,case53,y,y,n,n,n,l,n,-
+511,case54,-,-,-,-,-,-,y,no pncct
+512,case55,y,y,n,n,n,r,n,-
+513,case56,y,y,n,n,n,r,n,-
+514,case57,y,y,n,n,n,r,n,-
+515,case58,y,y,n,n,n,r,n,-
+516,case59,-,-,-,-,-,-,y,no pncct
+517,case60,y,y,n,n,n,l,n,-
+518,case61,y,y,n,n,n,r,n,check if contrast
+519,case62,-,-,-,-,-,-,y,no pncct
+520,case63,-,-,-,-,-,-,y,no pncct
+521,case64,y,y,n,n,n,l,n,-
+522,case65,y,y,n,n,n,l,n,-
+523,case66,y,y,n,n,n,l,n,-
+524,case67,-,-,-,-,-,-,y,no pncct
+525,case68,y,y,n,n,n,l,n,-
+526,case69,y,y,n,n,n,l,n,-
+527,case70,y,y,n,n,n,r,n,segmentation overlapping bone
+528,case71,y,y,n,n,n,r,n,segmentation overlapping bone
+529,case72,y,y,n,n,n,r,n,check if contrast
+530,case73,-,-,-,-,-,-,y,no pncct
+531,case74,y,y,n,n,n,r,n,-
+532,case75,y,y,n,n,n,r,n,-
+533,case76,-,-,-,-,-,-,y,no pncct
+534,case77,y,y,n,n,n,r,n,-
+535,case78,y,y,n,n,n,l,n,check if contrast
+536,case79,y,y,n,n,n,l,n,-
+537,case80,y,y,n,n,n,l,n,-
+538,case81,y,y,n,n,n,r,n,check if contrast
+539,case82,y,y,n,n,n,r,n,check if contrast
+540,case83,y,y,n,n,n,r,n,-
+541,case84,y,y,n,n,n,r,n,-
+542,case85,y,y,n,n,n,l,n,check if contrast
+543,case86,y,y,n,n,n,r,n,-
+544,case87,y,y,n,n,n,r,n,-
+545,case88,y,y,n,n,n,l,n,-
+546,case89,y,y,n,n,n,l,n,-
+547,case90,y,y,n,n,n,l,n,-
+548,case91,y,y,n,n,n,l,n,-
+549,case92,y,y,n,n,n,r,n,-
+550,case93,y,y,n,n,n,l,n,-
+551,case94,-,-,-,-,-,-,y,no pncct
+552,case95,n,-,-,-,-,-,n,check if contrast
+553,case96,n,-,-,-,-,-,n,-
+554,case97,n,-,-,-,-,-,n,-
+555,case98,n,-,-,-,-,-,n,-
+556,case99,n,-,-,-,-,-,n,-
+557,case100,n,-,-,-,-,-,n,-
+558,case101,n,-,-,-,-,-,n,check if contrast
+559,case102,n,-,-,-,-,-,n,-
+560,case103,n,-,-,-,-,-,n,-
+561,case104,n,-,-,-,-,-,n,-
+562,case105,n,-,-,-,-,-,n,-
+563,case106,n,-,-,-,-,-,n,-
+564,case107,n,-,-,-,-,-,y,no pncct
+565,case108,n,-,-,-,-,-,y,no pncct
+566,case109,n,-,-,-,-,-,n,-
+567,case110,n,-,-,-,-,-,y,no pncct
+568,case111,n,-,-,-,-,-,y,no pncct
+569,case112,n,-,-,-,-,-,n,-
+570,case113,n,-,-,-,-,-,n,-
+571,case114,n,-,-,-,-,-,y,no pncct
+572,case115,n,-,-,-,-,-,n,-
+573,case116,n,-,-,-,-,-,n,-
+574,case117,n,-,-,-,-,-,y,no pncct
+575,case118,n,-,-,-,-,-,y,no pncct
+576,case119,n,-,-,-,-,-,n,-
+577,case120,n,-,-,-,-,-,n,-
+578,case121,n,-,-,-,-,-,n,-
+579,case122,n,-,-,-,-,-,n,-
+580,case123,n,-,-,-,-,-,y,no pncct
+581,case124,n,-,-,-,-,-,y,no pncct
+582,case125,n,-,-,-,-,-,n,-
+583,case126,n,-,-,-,-,-,n,-
+584,case127,n,-,-,-,-,-,y,no pncct
+585,case128,n,-,-,-,-,-,y,no pncct
+586,case129,n,-,-,-,-,-,n,-
+587,case130,n,-,-,-,-,-,n,-
+588,case131,n,-,-,-,-,-,n,-
+589,case132,n,-,-,-,-,-,n,-
+590,case133,n,-,-,-,-,-,y,no pncct
+591,case134,n,-,-,-,-,-,y,no pncct
+592,case135,n,-,-,-,-,-,n,-
+593,case136,n,-,-,-,-,-,n,-
+594,case137,n,-,-,-,-,-,n,-
+595,case138,n,-,-,-,-,-,n,-
+596,case139,n,-,-,-,-,-,n,-
+597,case140,n,-,-,-,-,-,n,-
+598,case141,n,-,-,-,-,-,n,-
+599,case142,n,-,-,-,-,-,n,-
+600,case143,n,-,-,-,-,-,n,-
+601,case144,n,-,-,-,-,-,n,-
+602,case145,n,-,-,-,-,-,n,-
+603,case146,n,-,-,-,-,-,n,-
+604,case147,n,-,-,-,-,-,n,-
+605,case148,n,-,-,-,-,-,n,-
+606,case149,n,-,-,-,-,-,n,-
+607,case150,n,-,-,-,-,-,n,-
+608,case151,n,-,-,-,-,-,n,-
+609,case152,n,-,-,-,-,-,n,-
+610,case153,n,-,-,-,-,-,n,-
+611,case154,n,-,-,-,-,-,y,no pncct
+612,case155,n,-,-,-,-,-,n,-
+613,case156,n,-,-,-,-,-,n,-

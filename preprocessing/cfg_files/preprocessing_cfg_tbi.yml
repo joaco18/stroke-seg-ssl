@@ -1,0 +1,172 @@
+
+# GENERAL CONFIGS
+general_config:
+  datapath: '<PATH_TO_THE_DATA>'
+  datasets: 'tbi'
+  modalities: ['ncct', 'ncct-tilt']
+  data_csv_path: '<PATH_TO_THE_PROJECT>/data/dataset.csv'
+  case_selection: ['all']
+  command_line: False
+  metrics_path: null
+  mri_expected: False
+  steps:
+    - read_and_write_sitk
+    - resample
+    - super_resolution
+    - skull_stripping
+    - tissue_segmentation
+    - intensity_clipping
+    - brain_region_crop
+    - difference_image
+    - cleaning
+
+# RESAMPLING CONFIGS
+resample:
+  resolution: [1., 1., 1.]
+  tolerance: [0.05, 0.05]
+  size: null
+  interpolator: 'linear'
+  gaussian_smooth: True
+  force: True
+  modalities:
+    - ncct
+  suffix: res
+
+# SUPER RESOLUTION CONFIGS
+super_resolution:
+  apply_over_resampled: False
+  resampled_suffix: res
+  check_resolution: True
+  modalities:
+    - ncct
+  suffix: sr
+  gpu: False
+  force: True
+
+# SKULL STRIPPING CONFIGS
+skull_stripping:
+  save_brain_mask: True
+  brain_mask_suffix: bm
+  save_skull_stripped: True
+  skull_striped_suffix: ss
+  alternative_suffix: alt
+  check_resolution: True
+  gpu: False
+  force: True
+  success_metric:
+    - convexity
+  convexity_threshold: 0.25
+  ncct:
+    over_image: sr
+    method: synth-strip
+    border: 0
+    alternative_method: hd-bet
+    mode: 'fast'
+    tta: False
+  skull_strip_imgs:
+    ncct-res: ncct-sr-bm
+
+# TISSUE SEGMENTATION CONFIGS
+tissue_segmentation:
+  over_image:
+    ncct: ncct-sr
+  suffix: tseg
+  gpu: False
+  save_simplified: True
+  simplified_sufix: stseg
+  get_qc_df: True
+  force: True
+  check_resolution: True
+
+# INTENSITY CLIPPING
+intensity_clipping:
+  ncct-res-ss:
+    min: -100
+    max: 400
+  suffix: ic
+  force: True
+
+# BRAIN REGION CROPPING
+brain_region_crop:
+  margin: 3
+  brain_mask: ncct-sr-bm
+  over_img:
+    - ncct-res-ss-ic
+    - ncct-sr-bm
+    - ncct-sr-stseg
+  suffix: c
+  force: True
+  bboxes_info_path: '<PATH_TO_THE_PROJECT>/experiments/crop_brain_vols/temporal_files'
+  bboxes_info_file: 'bbxes_info_tbi.json'
+
+# DIFFERENCE IMAGE GENERATION
+difference_image:
+  verbose: False
+  apply_over_img: ncct-res-ss-ic-c
+  brain_mask: ncct-sr-bm-c
+  mni_template_path: '<PATH_TO_DATA>/source_data/mni_ct/atlas-ss.nii.gz'
+  diff_suffix: diff
+  save_contralateral_img: True
+  cntrlt_suffix: flip
+  save_original_size: True
+  force: True
+  parameter_maps:
+    - Par0010/Par0010affine.txt
+  register_vascular_map: True
+  mni_vascular_map_path: '<PATH_TO_THE_DATA>/source_data/vascular_territories/mni_vascular_territories.nii.gz'
+  mni_vascular_map_t1_path: '<PATH_TO_THE_DATA>/source_data/vascular_territories/caa_t1_mni_ss.nii.gz'
+  bboxes_info_path: '<PATH_TO_THE_PROJECT>/experiments/crop_brain_vols/bbox_info.json'
+
+# CLEANING
+cleaning:
+  clean_datasets_path: '<PATH_TO_THE_DATA>/clean'
+  cleaning_matching:
+    # ADC
+    adc: 'adc'
+    adc-res-reg-ss: 'adc-pp'
+    adc-res-reg-ss-c: 'adc-pp-c'
+    # DWI
+    dwi: 'dwi'
+    dwi-res-reg-ss: 'dwi-pp'
+    dwi-res-reg-ss-c: 'dwi-pp-c'
+    # GT
+    msk: 'msk'
+    msk-res-reg-ss: 'msk-pp'
+    msk-res-reg-ss-c: 'msk-pp-c'
+    msk-tilt-res-reg-ss: 'msk-pp'
+    msk-tilt-res-reg-ss-c: 'msk-pp-c'
+    # NCCT
+    ncct: 'ncct'
+    ncct-ss: 'ncct-pp'
+    ncct-res-ss-ic: 'ncct-pp'
+    ncct-res-ss-ic-c: 'ncct-pp-c'
+    # NCCT-TILT
+    ncct-tilt: 'ncct'
+    ncct-tilt-ss: 'ncct-pp'
+    ncct-tilt-res-ss-ic: 'ncct-pp'
+    ncct-tilt-res-ss-ic-c: 'ncct-pp-c'
+    # CONTRALATERAL IMAGES
+    ncct-res-ss-ic-c-flip: 'ncct-pp-flip-c'
+    ncct-res-ss-ic-flip: 'ncct-pp-flip'
+    ncct-sr-bm-c-flip: 'bm-flip-c'
+    ncct-sr-bm-flip: 'bm-flip'
+    ncct-tilt-res-ss-ic-c-flip: 'ncct-pp-flip-c'
+    ncct-tilt-res-ss-ic-flip: 'ncct-pp-flip'
+    ncct-tilt-sr-bm-c-flip: 'bm-flip-c'
+    ncct-tilt-sr-bm-flip: 'bm-flip'
+    # STSEG
+    ncct-sr-stseg: 'stseg'
+    ncct-sr-stseg-c: 'stseg-c'
+    ncct-tilt-sr-stseg: 'stseg'
+    ncct-tilt-sr-stseg-c: 'stseg-c'
+    # VASC MAPS
+    vm-pp: 'vm-pp'
+    vm-pp-c: 'vm-pp-c'
+    # BRAIN MASK
+    ncct-sr-bm: 'bm'
+    ncct-sr-bm-c: 'bm-c'
+    ncct-tilt-sr-bm: 'bm'
+    ncct-tilt-sr-bm-c: 'bm-c'
+    # DIFF IMAGE
+    diff-pp: 'diff-pp'
+    diff-pp-c: 'diff-pp-c'

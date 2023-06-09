@@ -1,0 +1,61 @@
+subject,label,brain,cerebellum,stem,bilateral,hemisphere,discard,comment,wrongly registered
+train000,y,y,n,n,n,r,n,-,n
+train001,y,y,n,n,n,r,n,-,n
+train002,y,y,n,n,n,l,n,-,n
+train003,y,y,n,n,n,r,n,-,n
+train004,y,y,n,n,n,l,n,-,n
+train005,y,y,n,n,n,l,n,-,n
+train006,y,y,n,n,n,r,n,-,n
+train007,h,-,-,-,-,-,n,-,-
+train008,y,n,n,y,-,-,y,potential mask rl flip,y
+train009,y,y,n,n,n,r,n,-,n
+train010,y,y,n,n,n,l,n,-,n
+train011,y,y,n,n,n,l,n,-,n
+train012,h,-,-,-,-,-,n,-,-
+train013,y,y,n,n,n,r,n,-,n
+train014,y,y,n,n,n,l,n,-,n
+train015,y,y,n,n,n,l,n,-,n
+train016,y,n,n,y,-,-,y,potential mask rl flip,y
+train017,y,y,n,n,n,r,n,-,n
+train018,y,y,n,n,n,r,y,potential mask translation,y
+train019,y,y,n,n,n,r,y,potential mask translation,y
+train020,y,y,n,n,n,r,y,brain mask with holes,y
+train021,y,y,n,n,n,l,y,-,y
+train022,y,y,n,n,n,l,n,-,n
+train023,y,n,n,y,n,r,n,-,n
+train024,y,y,y,y,n,l,n,-,n
+train025,y,n,n,y,n,r,n,-,n
+train026,y,y,n,n,n,r,n,brain mask with holes,n
+train027,h,-,-,-,-,-,n,-,-
+train028,y,y,n,n,n,r,n,-,n
+train029,y,y,n,n,n,r,n,-,n
+train030,y,y,n,n,n,r,n,-,n
+train031,y,y,n,n,n,l,y,ncct corrupted,n
+train032,y,y,n,n,y,b,n,-,n
+train033,y,y,n,n,n,r,n,-,n
+train034,y,n,n,y,n,r,n,-,n
+train035,y,n,y,n,n,l,n,check for another lesion in slice 14,n
+train036,y,y,n,n,n,l,n,check for another lesion in slice 20,n
+train037,y,y,n,n,n,r,n,-,n
+train038,h,-,-,-,-,-,n,check stem in slide 10,-
+train039,y,y,n,n,n,l,n,-,n
+train040,y,y,n,n,n,r,n,-,n
+train041,y,y,n,n,n,l,n,-,n
+train042,y,y,n,n,y,b,n,-,n
+train043,y,y,n,n,n,l,n,-,n
+train044,y,y,n,n,n,l,n,-,n
+train045,y,y,n,n,n,r,n,-,n
+train046,y,y,n,n,y,b,n,-,n
+train047,y,y,n,n,n,l,n,-,n
+train048,h,-,-,-,-,-,n,-,-
+train049,y,y,n,n,n,r,n,-,n
+train050,y,n,n,y,n,r,n,-,n
+train051,h,-,-,-,-,-,n,-,-
+train052,y,n,n,y,n,r,y,-,maybe
+train053,y,y,n,n,n,l,n,-,n
+train054,y,y,n,n,n,l,n,-,n
+train055,y,y,n,n,n,l,n,-,n
+train056,y,n,n,y,n,l,n,-,n
+train057,y,y,n,n,n,r,n,-,n
+train058,h,-,-,-,-,-,n,-,-
+train059,h,-,-,-,-,-,n,-,-

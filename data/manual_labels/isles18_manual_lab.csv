@@ -1,0 +1,157 @@
+subject,label,brain,cerebellum,stem,bilateral,hemisphere,discard,comment
+case1,y,y,n,n,n,l,y,artifact bottom slices
+case2,y,y,n,n,n,l,n,-
+case3,y,y,n,n,n,l,n,-
+case4,y,y,n,n,n,l,n,-
+case5,y,y,n,n,n,l,n,-
+case6,y,y,n,n,n,l,n,-
+case7,y,y,n,n,n,l,n,-
+case8,y,y,n,n,n,l,n,-
+case9,y,y,n,n,n,l,n,-
+case10,y,y,n,n,n,r,n,-
+case11,y,y,n,n,n,r,n,-
+case12,y,y,n,n,n,l,n,artifact in pncct1
+case13,y,y,n,n,n,r,n,-
+case14,y,y,n,n,n,r,n,-
+case15,y,y,n,n,n,r,n,mild artifact
+case16,-,-,-,-,-,-,y,no pncct
+case17,y,y,n,n,n,r,n,-
+case18,y,y,n,n,n,r,n,-
+case19,y,y,n,n,n,r,n,-
+case20,y,y,n,n,n,r,n,segmentation overlapping bone
+case21,y,y,n,n,n,l,n,-
+case22,-,-,-,-,-,-,y,no pncct
+case23,y,y,n,n,n,r,n,-
+case24,y,y,n,n,n,r,n,-
+case25,y,y,n,n,n,r,n,-
+case26,y,y,n,n,n,l,n,-
+case27,y,y,n,n,n,l,n,-
+case28,y,y,n,n,n,l,n,-
+case29,y,y,n,n,n,l,n,-
+case30,y,y,n,n,n,l,y,no pncct
+case31,-,-,-,-,-,-,y,no pncct
+case32,y,y,n,n,n,r,n,-
+case33,y,y,n,n,n,l,n,-
+case34,y,y,n,n,n,r,n,-
+case35,y,y,n,n,n,r,n,-
+case36,y,y,n,n,n,r,n,-
+case37,y,y,n,n,n,r,n,segmentation overlapping bone
+case38,y,y,n,n,n,l,n,-
+case39,y,y,n,n,n,l,n,-
+case40,y,y,n,n,n,l,n,-
+case41,y,y,n,n,n,r,n,-
+case42,-,-,-,-,-,-,y,no pncct
+case43,y,y,n,n,n,r,n,-
+case44,y,y,n,n,n,r,n,-
+case45,-,-,-,-,-,-,y,no pncct
+case46,y,y,n,n,n,r,n,-
+case47,y,y,n,n,n,l,n,-
+case48,y,y,n,n,n,l,n,-
+case49,y,y,n,n,n,r,n,-
+case50,y,y,n,n,n,r,n,check if contrast
+case51,y,y,n,n,n,r,n,-
+case52,-,-,-,-,-,-,y,no pncct
+case53,y,y,n,n,n,l,n,-
+case54,-,-,-,-,-,-,y,no pncct
+case55,y,y,n,n,n,r,n,-
+case56,y,y,n,n,n,r,n,-
+case57,y,y,n,n,n,r,n,-
+case58,y,y,n,n,n,r,n,-
+case59,-,-,-,-,-,-,y,no pncct
+case60,y,y,n,n,n,l,n,-
+case61,y,y,n,n,n,r,n,check if contrast
+case62,-,-,-,-,-,-,y,no pncct
+case63,-,-,-,-,-,-,y,no pncct
+case64,y,y,n,n,n,l,n,-
+case65,y,y,n,n,n,l,n,-
+case66,y,y,n,n,n,l,n,-
+case67,-,-,-,-,-,-,y,no pncct
+case68,y,y,n,n,n,l,n,-
+case69,y,y,n,n,n,l,n,-
+case70,y,y,n,n,n,r,n,segmentation overlapping bone
+case71,y,y,n,n,n,r,n,segmentation overlapping bone
+case72,y,y,n,n,n,r,n,check if contrast
+case73,-,-,-,-,-,-,y,no pncct
+case74,y,y,n,n,n,r,n,-
+case75,y,y,n,n,n,r,n,-
+case76,-,-,-,-,-,-,y,no pncct
+case77,y,y,n,n,n,r,n,-
+case78,y,y,n,n,n,l,n,check if contrast
+case79,y,y,n,n,n,l,n,-
+case80,y,y,n,n,n,l,n,-
+case81,y,y,n,n,n,r,n,check if contrast
+case82,y,y,n,n,n,r,n,check if contrast
+case83,y,y,n,n,n,r,n,-
+case84,y,y,n,n,n,r,n,-
+case85,y,y,n,n,n,l,n,check if contrast
+case86,y,y,n,n,n,r,n,-
+case87,y,y,n,n,n,r,n,-
+case88,y,y,n,n,n,l,n,-
+case89,y,y,n,n,n,l,n,-
+case90,y,y,n,n,n,l,n,-
+case91,y,y,n,n,n,l,n,-
+case92,y,y,n,n,n,r,n,-
+case93,y,y,n,n,n,l,n,-
+case94,-,-,-,-,-,-,y,no pncct
+case95,n,-,-,-,-,-,n,check if contrast
+case96,n,-,-,-,-,-,n,-
+case97,n,-,-,-,-,-,n,-
+case98,n,-,-,-,-,-,n,-
+case99,n,-,-,-,-,-,n,-
+case100,n,-,-,-,-,-,n,-
+case101,n,-,-,-,-,-,n,check if contrast
+case102,n,-,-,-,-,-,n,-
+case103,n,-,-,-,-,-,n,-
+case104,n,-,-,-,-,-,n,-
+case105,n,-,-,-,-,-,n,-
+case106,n,-,-,-,-,-,n,-
+case107,n,-,-,-,-,-,y,no pncct
+case108,n,-,-,-,-,-,y,no pncct
+case109,n,-,-,-,-,-,n,-
+case110,n,-,-,-,-,-,y,no pncct
+case111,n,-,-,-,-,-,y,no pncct
+case112,n,-,-,-,-,-,n,-
+case113,n,-,-,-,-,-,n,-
+case114,n,-,-,-,-,-,y,no pncct
+case115,n,-,-,-,-,-,n,-
+case116,n,-,-,-,-,-,n,-
+case117,n,-,-,-,-,-,y,no pncct
+case118,n,-,-,-,-,-,y,no pncct
+case119,n,-,-,-,-,-,n,-
+case120,n,-,-,-,-,-,n,-
+case121,n,-,-,-,-,-,n,-
+case122,n,-,-,-,-,-,n,-
+case123,n,-,-,-,-,-,y,no pncct
+case124,n,-,-,-,-,-,y,no pncct
+case125,n,-,-,-,-,-,n,-
+case126,n,-,-,-,-,-,n,-
+case127,n,-,-,-,-,-,y,no pncct
+case128,n,-,-,-,-,-,y,no pncct
+case129,n,-,-,-,-,-,n,-
+case130,n,-,-,-,-,-,n,-
+case131,n,-,-,-,-,-,n,-
+case132,n,-,-,-,-,-,n,-
+case133,n,-,-,-,-,-,y,no pncct
+case134,n,-,-,-,-,-,y,no pncct
+case135,n,-,-,-,-,-,n,-
+case136,n,-,-,-,-,-,n,-
+case137,n,-,-,-,-,-,n,-
+case138,n,-,-,-,-,-,n,-
+case139,n,-,-,-,-,-,n,-
+case140,n,-,-,-,-,-,n,-
+case141,n,-,-,-,-,-,n,-
+case142,n,-,-,-,-,-,n,-
+case143,n,-,-,-,-,-,n,-
+case144,n,-,-,-,-,-,n,-
+case145,n,-,-,-,-,-,n,-
+case146,n,-,-,-,-,-,n,-
+case147,n,-,-,-,-,-,n,-
+case148,n,-,-,-,-,-,n,-
+case149,n,-,-,-,-,-,n,-
+case150,n,-,-,-,-,-,n,-
+case151,n,-,-,-,-,-,n,-
+case152,n,-,-,-,-,-,n,-
+case153,n,-,-,-,-,-,n,-
+case154,n,-,-,-,-,-,y,no pncct
+case155,n,-,-,-,-,-,n,-
+case156,n,-,-,-,-,-,n,-
